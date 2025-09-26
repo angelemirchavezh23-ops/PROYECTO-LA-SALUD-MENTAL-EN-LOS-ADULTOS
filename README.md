@@ -22,6 +22,36 @@ No atender la salud mental puede tener consecuencias graves: disminución en la 
 
 Por eso, es fundamental promover el autocuidado en la adultez: hábitos de sueño adecuados, ejercicio regular, alimentación balanceada, establecer límites en el trabajo y, sobre todo, buscar apoyo psicológico cuando sea necesario. Hablar abiertamente de salud mental también ayuda a romper estigmas y normalizar el cuidado emocional.
 
+# 🧠 Salud mental en los adultos
+
+> ❓ ¿Por qué la salud mental en los adultos es un tema tan importante en la sociedad actual?
+
+## 🔹 Factores que afectan la salud mental
+
+- Estrés laboral
+
+- Problemas económicos
+
+- Falta de sueño
+
+- Soledad y aislamiento social
+
+- Enfermedades crónicas
+
+## 🌿 Beneficios de cuidar la salud mental
+
+- Bienestar general
+
+- Mejor rendimiento en el trabajo
+
+- Relaciones sociales más sanas
+
+- Mayor resiliencia
+
+- Afrontar el estrés con mayor facilidad
+
+- Recuperarse más rápido de problemas
+
 
 fuentes de informacion:
 https://www.imss.gob.mx/salud-en-linea/salud-mental
@@ -29,23 +59,7 @@ https://www.imss.gob.mx/salud-en-linea/salud-mental
 segunda fuente:
 https://www.paho.org/es/temas/salud-mental
 
-# 🧠 Salud mental en los adultos
-> ❓ ¿Por qué la salud mental en los adultos es un tema tan importante en la sociedad actual?
-## 🔹 Factores que afectan la salud mental
 
-- Estrés laboral
-- Problemas económicos
-- Falta de sueño
-- Soledad y aislamiento social
-- Enfermedades crónicas
-## 🌿 Beneficios de cuidar la salud mental
-
-- Bienestar general
-- Mejor rendimiento en el trabajo
-- Relaciones sociales más sanas
-- Mayor resiliencia
-- Afrontar el estrés con mayor facilidad
-- Recuperarse más rápido de problemas
 
 
 
