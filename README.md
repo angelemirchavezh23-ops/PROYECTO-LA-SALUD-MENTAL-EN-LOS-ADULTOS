@@ -3,9 +3,7 @@ ESTE ES UN PROYECTO DONDE VEREMOS UN TEMA SOBRE LA SALUD MENTAL EN LOS ADULTOS.
 
 ¿Por qué muchos adultos descuidan su salud mental mientras atienden otras responsabilidades de la vida diaria?
 
-
-<img src="salud mental.jpg" 
-  alt="Salud mental" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="C:\Users\CC3_34\Downloads\salud mental.jpeg" alt="Salud mental" style="display: block; margin-left: auto; margin-right: auto;" />" 
 
        
 La salud mental de los adultos es un aspecto esencial para llevar una vida equilibrada, pero con frecuencia se pasa por alto. Muchas personas priorizan el trabajo, las obligaciones familiares o las metas económicas y dejan de lado su bienestar emocional. Este descuido puede deberse a varias razones:
