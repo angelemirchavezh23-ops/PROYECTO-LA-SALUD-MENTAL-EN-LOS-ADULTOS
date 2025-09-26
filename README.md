@@ -4,7 +4,7 @@ ESTE ES UN PROYECTO DONDE VEREMOS UN TEMA SOBRE LA SALUD MENTAL EN LOS ADULTOS.
 ¿Por qué muchos adultos descuidan su salud mental mientras atienden otras responsabilidades de la vida diaria?
 
 
-<img src="https://www.google.com/imgres?q=salud%20mental&imgurl=https%3A%2F%2Fbbmundo.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fimportancia-de-la-salud-mental-en-la-adolescencia.jpg&imgrefurl=https%3A%2F%2Fbbmundo.com%2Fadolescentes%2Fimportancia-de-la-salud-mental-en-la-adolescencia%2F&docid=fDbe1mAiRhGF0M&tbnid=JrAfyoQVrqkSxM&vet=12ahUKEwjb2N_91vaPAxX7HUQIHai7H58QM3oECB0QAA..i&w=1050&h=620&hcb=2&ved=2ahUKEwjb2N_91vaPAxX7HUQIHai7H58QM3oECB0QAA.jpg" 
+<img src="salud mental.jpg" 
   alt="Salud mental" style="display: block; margin-left: auto; margin-right: auto;" />
 
        
