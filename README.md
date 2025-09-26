@@ -3,6 +3,9 @@ ESTE ES UN PROYECTO DONDE VEREMOS UN TEMA SOBRE LA SALUD MENTAL EN LOS ADULTOS.
 
 ¿Por qué muchos adultos descuidan su salud mental mientras atienden otras responsabilidades de la vida diaria?
 
+
+
+
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85nPNKxt9DwV0OQ5_nNtk4rvlvhHQ0vIFJA&s.png" alt="Salud mental">
 </div>
