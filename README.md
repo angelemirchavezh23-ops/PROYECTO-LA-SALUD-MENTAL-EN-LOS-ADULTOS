@@ -29,15 +29,23 @@ https://www.imss.gob.mx/salud-en-linea/salud-mental
 segunda fuente:
 https://www.paho.org/es/temas/salud-mental
 
+# 🧠 Salud mental en los adultos
+> ❓ ¿Por qué la salud mental en los adultos es un tema tan importante en la sociedad actual?
+## 🔹 Factores que afectan la salud mental
 
-# Salud Mental en Adultos
+- Estrés laboral
+- Problemas económicos
+- Falta de sueño
+- Soledad y aislamiento social
+- Enfermedades crónicas
+## 🌿 Beneficios de cuidar la salud mental
 
-Este documento presenta información sobre la salud mental en adultos, organizada en tres tablas para facilitar la comprensión de los diferentes factores, problemas y estrategias de bienestar.
-
-## Tabla 1: Factores de riesgo y protección
-
-Esta tabla compara los factores que influyen positiva y negativamente en la salud mental de los adultos.
-
+- Bienestar general
+- Mejor rendimiento en el trabajo
+- Relaciones sociales más sanas
+- Mayor resiliencia
+- Afrontar el estrés con mayor facilidad
+- Recuperarse más rápido de problemas
 
 
 
